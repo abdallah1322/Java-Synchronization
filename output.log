@@ -1,0 +1,40 @@
+c1 p1c arrived
+
+c2 p2c arrived
+
+connection 2 ( c1 ) login 
+
+connection 2 ( c1 ) Occupied 
+
+connection 2( c1 ) perform online activity
+
+connection 1 ( c2 ) login 
+
+connection 1 ( c2 ) Occupied 
+
+connection 1( c2 ) perform online activity
+
+c3 p3c arrived and waiting
+
+c4 p4c arrived and waiting
+
+( c1 ) (p1c) logged out 
+
+connection 2 ( c3 ) login 
+
+connection 2 ( c3 ) Occupied 
+
+connection 2( c3 ) perform online activity
+
+( c2 ) (p2c) logged out 
+
+connection 1 ( c4 ) login 
+
+connection 1 ( c4 ) Occupied 
+
+connection 1( c4 ) perform online activity
+
+( c3 ) (p3c) logged out 
+
+( c4 ) (p4c) logged out 
+

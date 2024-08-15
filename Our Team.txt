@@ -1,0 +1,19 @@
+<<Name>>-----------------------------------------<<ID>>
+1-Mahmoud Ahmed Elkomy---------------------------20200491
+2-Abdallah Emadeldin ----------------------------20200324
+
+
+
+
+<Note>
+output handled in both File called "output" and in Console.
+
+
+
+
+
+
+
+
+
+                                                                                                        Sumbitted to Dr:khaled wassef
